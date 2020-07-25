@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Ctw2VUFucdjTNlBcM4G0RFdDoecms+8pe9ELZB0MrVu+lk+wN0c91zu5zYa3VYvKzMsMbDsCJqobZ1RMRMkGQ==",
+  "dgSpecHash": "0ooC3AS/6ry57gLQ3/AF9/QJKp820R2E8cxzlR4t3XjnDVBZ+1yJGbIfZ8NAFcl+8V3/OO43XfOAwIQcx+O0kg==",
   "success": true,
-  "projectFilePath": "/home/manish/repos/eshop/src/backend/API/backend.csproj",
+  "projectFilePath": "/home/manish/repos/eshop/src/backend/API/API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

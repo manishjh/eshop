@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/manish/repos/eshop/src/backend/API/backend.csproj",
-      "projectName": "backend",
-      "projectPath": "/home/manish/repos/eshop/src/backend/API/backend.csproj",
+      "projectUniqueName": "/home/manish/repos/eshop/src/backend/API/API.csproj",
+      "projectName": "API",
+      "projectPath": "/home/manish/repos/eshop/src/backend/API/API.csproj",
       "packagesPath": "/home/manish/.nuget/packages/",
       "outputPath": "/home/manish/repos/eshop/src/backend/API/obj/",
       "projectStyle": "PackageReference",
